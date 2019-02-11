@@ -1,0 +1,22 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "express-hello-world",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mizudako12/express-hello-world.git"
+  },
+  "author": "mizudako12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mizudako12/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/mizudako12/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
